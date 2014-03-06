@@ -1,0 +1,17 @@
+{
+  "uuid": "f224fb91-be63-4bfa-9cfe-68ee551a2296",
+  "shortName": "theatre",
+  "longName": "theatre",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
