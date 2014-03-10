@@ -60,7 +60,7 @@ static void window_load(Window *window) {
   image = gbitmap_create_with_resource(RESOURCE_ID_IMAGE_BULLETIN);
 
   GRect imagebounds = layer_get_frame(window_layer);
-  imagebounds.size.h = 1000;
+  imagebounds.size.h = 570;
   // The bitmap layer holds the image for display
   image_layer = bitmap_layer_create(imagebounds);
   bitmap_layer_set_bitmap(image_layer, image);
